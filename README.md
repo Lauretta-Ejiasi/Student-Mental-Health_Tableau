@@ -15,4 +15,6 @@ In-depth analysis of gender and departmental breakdowns to identify disparities 
 
 The insights gained from this analysis are invaluable for universities and mental health professionals, providing actionable insight to support student well-being and guide intervention strategies.
 
+View my interactive dashboard on Tableau via this link - https://public.tableau.com/views/StudentMentalHealth_17025119958590/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 All of this insightful analysis was conducted using Tableau, allowing for visually engaging and informative dashboards.
